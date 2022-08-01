@@ -10,5 +10,5 @@
 ![JS](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 
 ### Follow me
-[!VK(https://img.shields.io/badge/-VK-000000?style=for-the-badge&logo=vk)](https://vk.com/nikvov4ik)
-[!Telegram(https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/AxVol69)
+[![VK](https://img.shields.io/badge/-VK-000000?style=for-the-badge&logo=vk)](https://vk.com/nikvov4ik)
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/AxVol69)
