@@ -1,6 +1,6 @@
 ## Python programmer
 
-### Languages amd Tools
+### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=django)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)
