@@ -1,4 +1,4 @@
-## Just Junior at all
+## Just Junior, at all
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
