@@ -1,4 +1,4 @@
-## Python programmer
+## Just Junior at all
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
@@ -7,6 +7,8 @@
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=mysql)
 ![Selenium](https://img.shields.io/badge/-Selenium-000000?style=for-the-badge&logo=selenium)
 ![TelegramAPI](https://img.shields.io/badge/-TelegramApi-000000?style=for-the-badge&logo=telegram)
+![C#](https://img.shields.io/badge/-Csharp-000000?style=for-the-badge&logo=C#)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=Unity)
 
 ### Follow me
 [![VK](https://img.shields.io/badge/-VK-000000?style=for-the-badge&logo=vk)](https://vk.com/nikvov4ik)
