@@ -7,7 +7,7 @@
 ![TelegramAPI](https://img.shields.io/badge/-TelegramApi-000000?style=for-the-badge&logo=telegram)
 ![C#](https://img.shields.io/badge/-Csharp-000000?style=for-the-badge&logo=C#)
 ![.NET](https://img.shields.io/badge/-.NET-000000?style=for-the-badge&logo=.NET)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-000000?style=for-the-badge&logo=.NET)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET_CORE-000000?style=for-the-badge&logo=.NET)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=Unity)
 
 ### Follow me
