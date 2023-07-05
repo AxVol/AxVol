@@ -1,7 +1,7 @@
 ## Just Junior, at all
 
 ### Languages and Tools
-![C#](https://img.shields.io/badge/-Csharp-000000?style=for-the-badge&logo=C#)
+![C#](https://img.shields.io/badge/-Csharp-000000?style=for-the-badge&logo=c-sharp)
 ![.NET](https://img.shields.io/badge/-.NET-000000?style=for-the-badge&logo=.NET)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET_CORE-000000?style=for-the-badge&logo=.NET)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=Unity)
