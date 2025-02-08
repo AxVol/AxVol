@@ -7,6 +7,8 @@
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=Unity)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=mysql)
 ![TelegramAPI](https://img.shields.io/badge/-TelegramApi-000000?style=for-the-badge&logo=telegram)
+![Docker](https://img.shields.io/badge/-docker-000000?style=for-the-badge&logo=docker)
+![NoSQL](https://img.shields.io/badge/-NoSQL-000000?style=for-the-badge&logo=nosql)
 
 ### Follow me
 [![VK](https://img.shields.io/badge/-VK-000000?style=for-the-badge&logo=vk)](https://vk.com/nikvov4ik)
