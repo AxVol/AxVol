@@ -6,8 +6,6 @@
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET_CORE-000000?style=for-the-badge&logo=.NET)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=Unity)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=mysql)
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
-![Django](https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=django)
 ![TelegramAPI](https://img.shields.io/badge/-TelegramApi-000000?style=for-the-badge&logo=telegram)
 
 ### Follow me
