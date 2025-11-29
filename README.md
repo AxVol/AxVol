@@ -4,11 +4,11 @@
 ![C#](https://img.shields.io/badge/-Csharp-000000?style=for-the-badge&logo=c-sharp)
 ![.NET](https://img.shields.io/badge/-.NET-000000?style=for-the-badge&logo=.NET)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET_CORE-000000?style=for-the-badge&logo=.NET)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=Unity)
+![Ansible](https://img.shields.io/badge/-ansible-000000?style=for-the-badge&logo=ansible)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=mysql)
-![TelegramAPI](https://img.shields.io/badge/-TelegramApi-000000?style=for-the-badge&logo=telegram)
 ![Docker](https://img.shields.io/badge/-docker-000000?style=for-the-badge&logo=docker)
 ![NoSQL](https://img.shields.io/badge/-NoSQL-000000?style=for-the-badge&logo=nosql)
+![GitLav](https://img.shields.io/badge/-gitlab_CI-000000?style=for-the-badge&logo=gitlab)
 
 ### Follow me
 [![VK](https://img.shields.io/badge/-VK-000000?style=for-the-badge&logo=vk)](https://vk.com/nikvov4ik)
