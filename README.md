@@ -6,7 +6,6 @@
 ![Ansible](https://img.shields.io/badge/-ansible-000000?style=for-the-badge&logo=ansible)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=mysql)
 ![Docker](https://img.shields.io/badge/-docker-000000?style=for-the-badge&logo=docker)
-![NoSQL](https://img.shields.io/badge/-NoSQL-000000?style=for-the-badge&logo=nosql)
 ![GitLab](https://img.shields.io/badge/-gitlab_CI-000000?style=for-the-badge&logo=gitlab)
 ![Python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=python)
 ![Kubernetes](https://img.shields.io/badge/-kubernetes-000000?style=for-the-badge&logo=kubernetes)
