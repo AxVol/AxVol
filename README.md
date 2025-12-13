@@ -1,4 +1,4 @@
-## Just Junior, at all
+## Just me, at all
 
 ### Languages and Tools
 ![C#](https://img.shields.io/badge/-Csharp-000000?style=for-the-badge&logo=c-sharp)
